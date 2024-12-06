@@ -1,0 +1,21 @@
+websites for extra resources here:
+
+https://asana.com/resources/success-metrics-examples
+
+https://www.scoro.com
+
+https://towardsdatascience.com/a-comprehensive-guide-to-the-grammar-of-graphics-for-effective-visualization-of-multi-dimensional-1f92b4ed4149?gi=0dbf829cf17a
+
+https://www.analyticsvidhya.com/blog/2021/09/how-to-choose-the-right-chart-for-data-visualization/
+
+https://infogram.com/blog/choose-the-right-chart/
+
+https://towardsdatascience.com/ultimate-guide-to-choosing-the-right-visual-2a77aa8eec08
+
+https://www.atlassian.com/data/charts/how-to-choose-data-visualization
+
+https://www.tableau.com/learn/whitepapers/which-chart-or-graph-is-right-for-you
+
+http://insideainews.com/2018/03/28/data-scientists-guide-communicating-results/
+
+http://elearning.daremightythings.com/CCF/analyzingdata/Print.aspx
